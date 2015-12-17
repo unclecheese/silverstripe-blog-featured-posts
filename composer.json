@@ -1,0 +1,22 @@
+{
+    "name": "unclecheese/silverstripe-blog-featured-posts",
+    "description": "Adds featured posts to the blog module.",
+    "keywords": [
+        "silverstripe",
+        "blog"
+    ],
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/blog": "^2.0"
+    },
+    "extra": {
+        "installer-name": "blog-featured-posts"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Uncle Cheese",
+            "email": "learn@silverstripe.org"
+        }
+    ]
+}
