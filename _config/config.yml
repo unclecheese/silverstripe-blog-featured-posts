@@ -1,0 +1,9 @@
+Blog:
+  extensions:
+    - FeaturedBlogExtension
+BlogPost:
+  extensions:
+    - FeaturedBlogPostExtension
+BlogCategory:
+  extensions:
+    - FeaturedBlogCategoryExtension
